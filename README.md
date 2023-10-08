@@ -1,6 +1,6 @@
 # Spaceship Titanic Binary Classification
 
-This project was created as an assignment for my Machine Learning, Artificial Neural Network, and Deep Learning exam. It involves a Binary Classification task within a Kaggle "Getting Started Prediction Competition" using a funny dataset called [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic). The primary objective of this project is to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with a spacetime anomaly.
+This project was created as an assignment for my Machine Learning, Artificial Neural Network, and Deep Learning (1st module of 2) exam. It involves a Binary Classification task within a Kaggle "Getting Started Prediction Competition" using a funny dataset called [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic). The primary objective of this project is to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with a spacetime anomaly.
 
 ## Project Overview
 
